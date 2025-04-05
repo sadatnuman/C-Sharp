@@ -1,0 +1,12 @@
+E:\C#\Lab8\bin\Debug\Lab8.exe.config
+E:\C#\Lab8\bin\Debug\Lab8.exe
+E:\C#\Lab8\bin\Debug\Lab8.pdb
+E:\C#\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+E:\C#\Lab8\obj\Debug\Lab8.Registration.resources
+E:\C#\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+E:\C#\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+E:\C#\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+E:\C#\Lab8\obj\Debug\Lab8.exe
+E:\C#\Lab8\obj\Debug\Lab8.pdb
+E:\C#\Lab8\obj\Debug\Lab8.Form2.resources
+E:\C#\Lab8\obj\Debug\Lab8.Details.resources
