@@ -1,0 +1,8 @@
+E:\C#\project practice\LoginForm\obj\Debug\net8.0-windows\LoginForm.Form1.resources
+E:\C#\project practice\LoginForm\obj\Debug\net8.0-windows\LoginForm.Home.resources
+E:\C#\project practice\LoginForm\obj\Debug\net8.0-windows\LoginForm.Properties.Resources.resources
+E:\C#\project practice\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.GenerateResource.cache
+E:\C#\project practice\LoginForm\obj\Debug\net8.0-windows\LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\project practice\LoginForm\obj\Debug\net8.0-windows\LoginForm.AssemblyInfoInputs.cache
+E:\C#\project practice\LoginForm\obj\Debug\net8.0-windows\LoginForm.AssemblyInfo.cs
+E:\C#\project practice\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.CoreCompileInputs.cache
