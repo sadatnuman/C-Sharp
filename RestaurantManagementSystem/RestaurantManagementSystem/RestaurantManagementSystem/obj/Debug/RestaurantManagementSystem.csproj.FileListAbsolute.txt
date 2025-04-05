@@ -1,0 +1,16 @@
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.pdb
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.AssemblyReference.cache
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.AdminPanel.resources
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Home.resources
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.MenuManagement.resources
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Order.resources
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Payment.resources
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Properties.Resources.resources
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.SalesReport.resources
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.UserManagement.resources
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.GenerateResource.cache
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+C:\Users\tahmi\source\repos\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
