@@ -1,0 +1,7 @@
+E:\C#\MidLabFinal\bin\Debug\MidLabFinal.exe.config
+E:\C#\MidLabFinal\bin\Debug\MidLabFinal.exe
+E:\C#\MidLabFinal\bin\Debug\MidLabFinal.pdb
+E:\C#\MidLabFinal\obj\Debug\MidLabFinal.csproj.AssemblyReference.cache
+E:\C#\MidLabFinal\obj\Debug\MidLabFinal.csproj.CoreCompileInputs.cache
+E:\C#\MidLabFinal\obj\Debug\MidLabFinal.exe
+E:\C#\MidLabFinal\obj\Debug\MidLabFinal.pdb

@@ -1,0 +1,7 @@
+E:\C#\Loops\bin\Debug\Loops.exe.config
+E:\C#\Loops\bin\Debug\Loops.exe
+E:\C#\Loops\bin\Debug\Loops.pdb
+E:\C#\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+E:\C#\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+E:\C#\Loops\obj\Debug\Loops.exe
+E:\C#\Loops\obj\Debug\Loops.pdb
